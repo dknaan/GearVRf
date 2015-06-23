@@ -22,6 +22,8 @@ import org.gearvrf.GVRMaterialShaderManager;
 import org.gearvrf.GVRCustomMaterialShaderId;
 
 public class ColorShader {
+ 
+// change
 
     public static final String COLOR_KEY = "color";
 
